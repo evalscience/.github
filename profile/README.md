@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="930" alt="banner" src="https://github.com/user-attachments/assets/7fee9db7-56a3-4cf4-b39a-3021beaddecd">
+![HeroImg CFL](https://github.com/user-attachments/assets/df9196ee-7ef9-457d-a6c7-ff3353dcb067)
 
 # eval.science
 
