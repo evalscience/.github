@@ -45,6 +45,7 @@ Designing optimal contracts and mechanisms to align incentives in multi-agent sy
 | **Science Package Manager** | Impact citation graphs for science-as-a-dependency tracking |
 | **Open Grants Review** | Peer review with onchain attestation protocols |
 | **Retro Conference** | Retroactive funding mechanism for high-impact research |
+| **Deep Funding** | Scaling high-quality human judgements through agent allocation |
 
 <br>
 
