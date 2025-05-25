@@ -46,6 +46,8 @@ Designing optimal contracts and mechanisms to align incentives in multi-agent sy
 | **Open Grants Review** | Peer review with onchain attestation protocols |
 | **Retro Conference** | Retroactive funding mechanism for high-impact research |
 | **Deep Funding** | Scaling high-quality human judgements through agent allocation |
+| **DeepGov** | Configurable AI politicians for capital allocation and governance |
+
 
 <br>
 
